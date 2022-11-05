@@ -1,0 +1,17 @@
+{
+    "name": "ivan/composer",
+    "require": {
+        "symfony/swiftmailer-bundle": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ivan\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Glushkov",
+            "email": "glushkov1997@icloud.com"
+        }
+    ]
+}
